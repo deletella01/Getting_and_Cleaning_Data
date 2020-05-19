@@ -60,6 +60,6 @@ This code book describes the variables, the data, and any transformations or wor
 
  5.1 Making a second tidy data set with the average of each variable for each activity and each subject.  
 
-# 5.2: Each respective descriptive name is allocated to each activity.
+ 5.2: Each respective descriptive name is allocated to each activity.
 
  5.3 Writing second tidy data set into a txt file.
